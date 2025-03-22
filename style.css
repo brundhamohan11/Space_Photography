@@ -1,0 +1,29 @@
+img{
+    width: 500px;
+    height: 300px;
+    padding: 5px;
+    background-color:black;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px; 
+}
+.N{
+    width: 300px; 
+    height: 300px;
+}
+div{
+    background-color: whitesmoke;
+    width: 500px;
+    display: flex;
+    padding: 20px;
+}
+h1{
+    color: black;
+    font-style: italic;
+}
+*{
+    background-color: whitesmoke;
+}
